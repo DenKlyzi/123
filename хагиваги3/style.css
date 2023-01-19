@@ -1,0 +1,74 @@
+h2 {
+    color: white;
+    }
+    dl {
+    color: white;
+    text-align: left;
+    
+    }
+    ol {
+    color: red;
+    text-align: left;
+    }
+    body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    line-height: 1;
+    }
+    h1 {
+    color:rgb(157, 255, 0);
+    
+    }
+    header {
+    background: linear-gradient(#f0aeae, #ff6804);
+    }
+    ul {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+    }
+    a {
+    font-size: 40px;
+    padding: 20px;
+    color: #b700ff;
+    text-decoration: none;
+    
+    }
+    a:hover {
+    color: #74099e;
+ 
+    }
+    li {
+    display: inline;
+    }
+    
+    h3 {
+    font-size: 40px;
+    color: #00ff73;
+    }
+    html {
+    background-image: url(https://i.playground.ru/i/pix/1749313/image.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    .autoTag {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    }
+    .padding {
+    margin-top: 0px;
+    }
+   form {
+    text-align: center;
+   }
+.mmm :hover{
+    color: #ffffff;
+    background: red;
+    cursor:default;
+}
